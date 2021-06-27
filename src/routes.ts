@@ -11,6 +11,7 @@ const createUsercontroller = new CreateUserController()
 const createTagController= new CreateTagController()
 const authenticateUserConstroller = new AuthenticateUserConstroller()
 const createComplimentController = new CreateComplimentController()
+
 router.post("/users", createUsercontroller.handle);
 router.post("/tags",ensureAdmin,createTagController.handle);
 router.post("/login",authenticateUserConstroller.handle);
