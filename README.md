@@ -12,7 +12,7 @@
 
   - afte clone , enter inside the projetc and install dependencies 
   
-  ```cd ourtube```
+  ```cd  nlw-valoriza```
   
   ```yarn install``` 
 
