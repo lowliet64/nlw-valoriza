@@ -8,7 +8,7 @@
 
  - first at all clone this repository using 
   
-  ```git clone https://github.com/lowliet64/nlw-valozira.git```
+  ```git clone https://github.com/lowliet64/nlw-valoriza.git```
 
   - afte clone , enter inside the projetc and install dependencies 
   
