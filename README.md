@@ -1,14 +1,27 @@
 # NLW Valoriza
 
-## Regras
+**prerequisites**📋
+ - NodeJS
+ - Yarn
+***
+**installation**💻
 
- - Cadastro de usuário
-   [] Não é permitido cadastrar mais de um usuário com o mesmmo email
-   [] não pode usuário sem email
-- Cadastro de TAG
-   [] não é permitido tag com mesmo nome
-   [] não é permitido tag vazio
-   [] não é permitido usuario sem ser admin cadastrar
--Cadastro de Elogio
-   [] O usuário não pode elogiar a si mesmo
-   [] usuario precisa estar autenticado
+ - first at all clone this repository using 
+  
+  ```git clone https://github.com/lowliet64/nlw-valozira.git```
+
+  - afte clone , enter inside the projetc and install dependencies 
+  
+  ```cd ourtube```
+  
+  ```yarn install``` 
+
+  - finally start the project using:
+    
+    ```yarn dev```
+
+
+**Dockerizing**🐳
+
+ ```not available```
+
